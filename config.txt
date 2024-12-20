@@ -1,0 +1,7 @@
+# config.properties
+
+jdbcUrl=jdbc:mysql://0.tcp.ap.ngrok.io:12712/rms
+dbusername=root
+dbpassword=
+dbdatabase=rms
+
